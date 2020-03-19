@@ -1,0 +1,1 @@
+export { default } from 'ember-vcollection/components/vertical-collection-wrapper';
